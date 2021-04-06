@@ -1,0 +1,71 @@
+h1{
+    float :left ;
+    width : 40% ;
+    color: white;
+    
+}
+ .c1{
+     background-color: teal;
+     overflow: hidden;
+ }
+
+
+ul{
+    Display:inline-block ;
+    color: white ;
+    font-size: small;
+    justify-content: right;
+    
+
+}
+.menue .ul{
+    display: inline-block ;
+    color: white ;
+    font-size : medium ;
+    padding-left: 0px ;
+}
+h2{
+    color: teal;
+    padding-left: 50%;
+    font-size: xx-large;
+}
+
+#i2{
+    width : 30%;
+    padding-left: 50%;
+}
+
+.c2{
+    display :flex;
+    float : right ;
+}
+.p{
+    float :right ;
+    flex-wrap : wrap ;
+}
+ #i{
+     width : 3% ;
+     float : left ;
+ }
+  .c3{
+      display: flex;
+    background-color: teal;
+    overflow: hidden ;
+    float :left
+
+  }
+  h3{
+      float : left ;
+      background-color: teal;
+      color: white;
+  }
+  li{
+      display: block;
+    float: left ;
+    color:  white;
+    background-color: teal;
+  }
+      
+
+  
+  
